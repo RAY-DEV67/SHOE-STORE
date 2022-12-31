@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./shoe_ecommerce.jpg)
+![](./shoe_ecommerce.png)
 
 ## My process
 
